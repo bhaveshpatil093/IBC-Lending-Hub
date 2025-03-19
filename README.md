@@ -7,7 +7,7 @@ IBC Lending Hub is a decentralized lending platform built on the Cosmos blockcha
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/bhaveshpatil093.git
 cd ibc-lending-hub
 npm install
 ```
